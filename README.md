@@ -1,9 +1,13 @@
 # Indian-Coffee-House-Sales-Dashboard
-This Power Bi dashboard shows the sales performance of Indian Coffee House.
+   This Power Bi dashboard shows the sales performance of Indian Coffee House.
 
-This Power BI Dashboard dives into , tracking total and average sales, and key sales risk factors through powerful KPIs and interactive visuals.
+# Project Overview:  
+  This Power BI Dashboard dives into , tracking total and average sales, and key sales risk factors through powerful KPIs and interactive visuals.
+  
+# Dataset Used: 
+     Kaggle dataset
 
-🔎Key Insights from the Dashboard:
+# 🔎Key Insights from the Dashboard:
 
    ▶️ KPI Overview - Total sales, Average sales, Total Transaction, Average transaction Value , Total cups sold
 
@@ -25,10 +29,10 @@ This Power BI Dashboard dives into , tracking total and average sales, and key s
 
    ◀️ Slicers - Filter insights by date.
 
-🔧Built using:
-    📊Power BI
+# 🔧Built using:
+      📊Power BI
     
-   🧹Power Query (For data cleaning)
+     🧹Power Query (For data cleaning)
    
-   📟DAX (for KPIs & calculated measures)
+     📟DAX (for KPIs & calculated measures)
 
