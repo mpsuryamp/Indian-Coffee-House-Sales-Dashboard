@@ -28,7 +28,7 @@ This Power BI Dashboard dives into , tracking total and average sales, and key s
 🔧Built using:
     📊Power BI
     
-   🧹Power Query ( for data cleaning)
+   🧹Power Query (For data cleaning)
    
-   📟DAX (for KPIs & calculated     measures)
+   📟DAX (for KPIs & calculated measures)
 
